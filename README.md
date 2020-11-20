@@ -1,5 +1,6 @@
 este es el proyecto de tpi
-lo que falta: 
+lo que falta:
+
 **Parte del administrador**
 
  Perfil
