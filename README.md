@@ -1,5 +1,6 @@
 ## En proceso
 <h3>🖥Parte del administrador🖥</h3>
+
 -   👤Registro y gestión de usuarios
  - 👥Registro y gestión de clientes
  - 🏡Registro y gestión de cantones
@@ -7,6 +8,7 @@
   - 📋Tabla con las tarifas de agua potable
  
  <h3> 👥Parte de clientes👥</h3>
+ 
  - 📋 Tabla con las tarifas de agua potable
  <h3> Extras</h3>
  
