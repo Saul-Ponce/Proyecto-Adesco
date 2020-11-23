@@ -39,7 +39,7 @@
  - 📄⏳Historial de recibos de agua
  - 📋 Tabla con las tarifas de agua potable
  
-
+##
  <h3> Extras</h3>
  
  - Validación de login(administrador/cliente)
