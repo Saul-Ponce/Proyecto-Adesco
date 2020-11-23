@@ -1,20 +1,20 @@
 ## En proceso
 <h3>🖥Parte del administrador🖥</h3>
 
--   👤Registro y gestión de usuarios
- - 👥Registro y gestión de clientes
- - 🏡Registro y gestión de cantones
-
-  - 📋Tabla con las tarifas de agua potable
+ - 👤Registro y gestión de usuarios(Saul)
+ - 👥Registro y gestión de clientes(Javier)
+ - 🏡Registro y gestión de cantones(Jonathan)
+ - 📋Tabla con las tarifas de agua potable(Wilian)
  
  <h3> 👥Parte de clientes👥</h3>
  
- - 📋 Tabla con las tarifas de agua potable
+ - 📋 enlazar la vista de Tabla con las tarifas de agua potable(Wilian)
+ 
  <h3> Extras</h3>
  
- - Validación de login(administrador/cliente)
- - llenar base de datos con al menos 5 registros de clientes, al menos unos 2 cantones y un usuario administrador
- - registrar en base las tarifas de agua potable
+ - Validación de login(administrador/cliente)(Saul)
+ - registrar en base las tarifas de agua potable(wilian)
+  - Menú para el que toma las medidas (wilian)
 ##
 
 ## lo que falta por hacer:
@@ -39,8 +39,9 @@
  - 📄⏳Historial de recibos de agua
  - 📋 Tabla con las tarifas de agua potable
  
-##
-<h3> Extras</h3>
 
- - Menú para el que toma las medidas
+ <h3> Extras</h3>
+ 
  - Validación de login(administrador/cliente)
+ - registrar en base las tarifas de agua potable
+  - Menú para el que toma las medidas
