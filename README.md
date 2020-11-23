@@ -1,9 +1,9 @@
 ## En proceso
 <h3>🖥Parte del administrador🖥</h3>
-
+-   👤Registro y gestión de usuarios
  - 👥Registro y gestión de clientes
  - 🏡Registro y gestión de cantones
- -   👤Registro y gestión de usuarios
+
   - 📋Tabla con las tarifas de agua potable
  
  <h3> 👥Parte de clientes👥</h3>
@@ -11,10 +11,7 @@
  <h3> Extras</h3>
  
  - Validación de login(administrador/cliente)
- - Recuperación por medio de correo
- - encriptar contraseña
- - formulario para que los clientes se registren si no tienen su cuenta
- - llenar base de datos con al menos 10 registros de clientes, al menos unos 5 cantones y un usuario administrador
+ - llenar base de datos con al menos 5 registros de clientes, al menos unos 2 cantones y un usuario administrador
  - registrar en base las tarifas de agua potable
 ##
 
@@ -45,6 +42,3 @@
 
  - Menú para el que toma las medidas
  - Validación de login(administrador/cliente)
- - Recuperación por medio de correo
- - encriptar contraseña
- - formulario para que los clientes se registren si no tienen su cuenta
